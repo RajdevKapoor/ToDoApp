@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To-Do</string>
+    <string name="enter_item">Add New Task</string>
+    <string name="hint_item">Task Title</string>
+    <string name="quantity_hint">Task Description</string>
+    <string name="save_title">Save</string>
+    <string name="sure_text">Are You Sure?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
